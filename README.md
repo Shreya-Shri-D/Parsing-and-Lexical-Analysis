@@ -124,12 +124,6 @@ pip install -r requirements.txt
 
 ---
 
-## Academic use
-
-This repository is submitted as part of **M.Sc. TCS — Theory of Computation** coursework. Reuse is limited by your institution’s policies.
-
----
-
 ## Author
 
 **Shreya Shri D** — [`Parsing-and-Lexical-Analysis`](https://github.com/Shreya-Shri-D/Parsing-and-Lexical-Analysis)
