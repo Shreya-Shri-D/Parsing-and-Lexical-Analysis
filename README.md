@@ -102,10 +102,10 @@ File type is chosen from the **extension** (`.c`, `.java`, `.cpp`).
 ```bash
 gcc pal.c -o pal_c && ./pal_c
 g++ pal.cpp -o pal_cpp && ./pal_cpp
-javac pal.java && java PalindromeChecker
+javac PalindromeChecker.java && java PalindromeChecker
 ```
 
-*(Adjust filenames if your compiler expects a public class name match.)*
+Rename `pal.java` to `PalindromeChecker.java` if needed so the filename matches the public class `PalindromeChecker`.
 
 ### Dependencies
 
