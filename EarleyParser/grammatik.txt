@@ -1,0 +1,15 @@
+% start S
+S -> SENTENCE | SENTENCE Con S
+SENTENCE -> NP VP
+
+NP -> Det AN 
+
+AN -> Noun | Adj AN
+
+VP -> Verb | Verb NP
+
+Con -> and | or | because | therefore | but
+Adj -> beautiful | good | big | small | funny | bad | hungry | fast
+Det -> the 
+Noun -> man | woman | cat | dog | tomcat | female dog | snake
+Verb -> sees | hears | bites | wakes | feeds | loves | goes

@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+
+# Historical nested clones — track project files only from this repo
+EarleyParser/.git/
+Multi-Language-Lexical-Analyser/.git/
